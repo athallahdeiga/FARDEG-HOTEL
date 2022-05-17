@@ -1,0 +1,23 @@
+[
+  {
+    "id":"1",
+    "nama" : "BOB,Singapore",
+    "komentar" : "WE LOVE IT",
+    "review" : "saya sangat suka hotel",
+    "foto" : "cus1.jpg"
+},
+{
+  "id":"2",
+  "nama" : "Lisa,Thailand",
+  "komentar" : "COMFORTABLE LIVING",
+  "review" : "disini sangat nyaman dan pelayanan nya sangat baik",
+  "foto" : "cus2.jpg"
+},
+{
+  "id":"3",
+  "nama" : "Aldi,Indonesia",
+  "komentar" : "NICE PALACE",
+  "review" : "tempat ini sangat bagus, saya dan keluarga merasa senang dan nyaman di hotel ini",
+  "foto" : "cus3.jpg"
+}
+]
